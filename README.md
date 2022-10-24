@@ -28,6 +28,6 @@
 6. MaxPointActivationForIter - сколько точек из списка исключенных снова включать в граф на каждой итерации поиска пути, Чем больше значение, тем больше соединений между    путями;
  
 ##  Спасибо:
-[Идея алгоритма генерации](https://github.com/yurkth/stsmapgen);  
-[Алгоритм триангуляции Делоне](https://github.com/nol1fe/delaunator-sharp);  
-[Обожаю её](https://store.steampowered.com/app/646570/Slay_the_Spire/);
+[Идея алгоритма генерации](https://github.com/yurkth/stsmapgen)  
+[Алгоритм триангуляции Делоне](https://github.com/nol1fe/delaunator-sharp)    
+[Обожаю её](https://store.steampowered.com/app/646570/Slay_the_Spire/)
