@@ -14,5 +14,6 @@
  
  
 Спасибо:
-https://github.com/yurkth/stsmapgen - идея
+https://github.com/yurkth/stsmapgen - идея;
 https://github.com/nol1fe/delaunator-sharp - алгоритм триангуляции Делоне;
+https://store.steampowered.com/app/646570/Slay_the_Spire/ - обожаю её;
