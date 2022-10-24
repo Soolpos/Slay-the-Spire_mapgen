@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-Assets\TextMesh Pro\* linguist-vendored
+\Assets\TextMesh Pro\* linguist-vendored
