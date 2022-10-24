@@ -14,5 +14,5 @@
  
  
 Спасибо:
-https://github.com/yurkth/stsmapgen - идея;
+https://github.com/yurkth/stsmapgen - идея 
 https://github.com/nol1fe/delaunator-sharp - алгоритм триангуляции Делоне;
