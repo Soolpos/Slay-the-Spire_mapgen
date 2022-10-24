@@ -62,5 +62,5 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-# TextMesh Pro files
-[Aa]ssets/TextMesh*Pro/* linguist-vendored
+* linguist-vendored
+*.cs linguist-vendored=false
