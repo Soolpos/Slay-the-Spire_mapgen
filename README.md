@@ -1,5 +1,4 @@
 Генератор карт, вдохновленный игрой Slay the Spire.
-Алгоритм генерации позаимствован у https://github.com/yurkth/stsmapgen. 
 
 Алгоритм генерации состоит из следующих шагов:
 1. Создается карта точек с помощью алгоритма Poisson Disk Sampling;
@@ -14,6 +13,6 @@
  
  
 Спасибо:
-https://github.com/yurkth/stsmapgen - идея;
+https://github.com/yurkth/stsmapgen - идея алгоритма генерации;
 https://github.com/nol1fe/delaunator-sharp - алгоритм триангуляции Делоне;
 https://store.steampowered.com/app/646570/Slay_the_Spire/ - обожаю её;
