@@ -1,5 +1,7 @@
 Генератор карт, вдохновленный игрой Slay the Spire.
 
+![mapgen](https://user-images.githubusercontent.com/108933370/197626814-d210cb0a-6c9e-4ba6-9201-7cfd576cb6d8.gif)
+
 Алгоритм генерации состоит из следующих шагов:
 1. Создается карта точек с помощью алгоритма Poisson Disk Sampling;
 2. Точки соединяются между собой с помощью алгоритма Delaunay triangulation;
