@@ -40,7 +40,6 @@ public class MapCore : MonoBehaviour
 
             CurrentMap = null;
         }
-        
     }
 
     void DisplayCurrentMap()

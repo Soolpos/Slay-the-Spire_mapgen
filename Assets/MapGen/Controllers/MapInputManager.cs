@@ -5,8 +5,8 @@ using UnityEngine;
 public class MapInputManager : MonoBehaviour
 {
     public GameObject CameraObj;
-    float CameraMoveK = 2f;
-    float CameraScrollK = 20;
+    float CameraMoveK = 2.5f;
+    float CameraScrollK = 160;
 
     // Start is called before the first frame update
     void Start()
